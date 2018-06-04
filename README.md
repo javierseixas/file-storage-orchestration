@@ -1,6 +1,6 @@
 # File Storage Orchestration
 
-The goal of this repository is containing a docker-compose file which will be in charge of running the applications of the system: A File Storage Service (server), and a File Storage UI Client.
+The goal of this repository is containing a docker-compose file which will be in charge of running the applications of the system: A [File Storage Service](https://github.com/javierseixas/file-storage-service) (server), and a [File Storage UI Client](https://github.com/javierseixas/file-storage-ui-client).
 
 ## Requirements
 You'll need docker and docker-compose for running both applications.
@@ -14,5 +14,5 @@ You'll need docker and docker-compose for running both applications.
 ## More Info
 You'll find specific information about each application in its own repository:
 
-* [File Storage Service]()
-* [File Storage UI Client]()
+* [File Storage Service](https://github.com/javierseixas/file-storage-service)
+* [File Storage UI Client](https://github.com/javierseixas/file-storage-ui-client)
