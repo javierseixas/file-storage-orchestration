@@ -1,0 +1,10 @@
+version: '3'
+services:
+  server:
+    image: "javierseixas/file-storage-service:0.0.1-SNAPSHOT"
+    ports:
+     - "8080:8080"
+  client:
+    image: "javierseixas/file-storage-ui-client"
+    ports:
+     - "3000:3000"
